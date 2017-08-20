@@ -1,3 +1,6 @@
+original project located: iscumd/Ohm2017
+Files pertaining to 4881 project have been located in one folder for ease (no need to go thru multiple folders to search)
+All work related to vision is by @DrCurry and @danvanden
 # CAMERA CONFIGURATION and SETUP
 ## CAMERA MUST BE RECAILBRATED IF POSITION AND ORIENTATION CHANGE
 ## CAMERA MUST START BEFORE THE MAPPING NODE TO INSURE ADJUSTMENT
