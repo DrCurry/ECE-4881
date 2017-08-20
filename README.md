@@ -1,4 +1,5 @@
 Original location for project: https://github.com/iscumd/ohm2017
+
 Files pertaining to ECE 4881 final project have been copied to this repo so that they are all under one location instead of multiple folders
 # CAMERA CONFIGURATION and SETUP
 ## CAMERA MUST BE RECAILBRATED IF POSITION AND ORIENTATION CHANGE
